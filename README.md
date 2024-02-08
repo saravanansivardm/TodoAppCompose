@@ -6,15 +6,15 @@
 * Navigation
 
 **Dependency Injection:**
-*Hilt
+* Hilt
 
 **Asynchronous Programming:**
-*Suspend Function
-*Flow
+* Suspend Function
+* Flow
 
 **Other Android Components:**
-*Room
-*Jetpack compose
+* Room
+* Jetpack compose
 
 In this project I have implemented the Todo app with insert,delete,delete all,update operations and
 **screen navigation with navigation arguments.**
